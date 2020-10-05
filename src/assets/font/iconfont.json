@@ -1,0 +1,23 @@
+{
+  "id": "2113365",
+  "name": "vue-project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3151246",
+      "name": "usra",
+      "font_class": "usra",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "6727739",
+      "name": "password normal",
+      "font_class": "tuceng",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
